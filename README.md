@@ -102,17 +102,20 @@ See `scripts/config.py` for the full list of overridable variables.
 ### Model and data download
 
 ```python
-from modelscope import snapshot_download
+from modelscope import snapshot_download, MsDataset
 
 # Base model → ./workspace/models/
 snapshot_download('Qwen/Qwen2.5-1.5B', cache_dir='./workspace/models')
 
-# SFT data (48k Chinese instructions) → ./workspace/data/
-from modelscope import MsDataset
+# SFT data: 48k Chinese instructions → ./workspace/data/
 MsDataset.load('AI-ModelScope/alpaca-gpt4-data-zh', cache_dir='./workspace/data')
+
+# DPO/KTO data: 60k English preference pairs → ./workspace/data/
+MsDataset.load('AI-ModelScope/ultrafeedback-binarized-preferences-cleaned',
+               cache_dir='./workspace/data')
 ```
 
-For the DPO/KTO preference data, run `python scripts/download_dpo_data.py`.
+The DPO/KTO download is also wrapped in `scripts/download_dpo_data.py` for convenience.
 
 ## A note on Chinese test prompts
 
