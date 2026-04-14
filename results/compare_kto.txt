@@ -1,0 +1,102 @@
+============================================================
+DPO (Exp-02, beta=0.1)
+============================================================
+
+Prompt: 什么是强化学习？
+Response: 强化学习（Reinforcement Learning，RL）是一种机器学习方法，在这种情况下人工智能系统通过与环境的交互来积累经验并做出决策。该过程通常涉及多个步骤：
+
+1. 初始状态：在某个时刻，机器人或智能体处于一个环境中。
+2. 动作选择: 在当前状态下，根据先前的经验和信息，采取相应的动作以影响后续的状态的变化。
+3. 环境反应：随后，计算机模型会接收来自真实世界的反馈结果，并更新其对未来的预测能力以及行动策略。
+
+简单来说, 强化学习就是基于奖励信号不断调整行为直到达到最优解的过程.
+
+由于它不需要显式地编写规则告诉AI如何执行任务、而是让它们自己去试错从而找到最佳方案的能力而闻名于世，在很多领域都得到了应用．例如游戏(如围棋）、自动驾驶汽车  和 治理等
+
+一些常用的算法包括 Q-learning , Sarsa and Deep Reinforcement learning
+----------------------------------------
+
+Prompt: 1+1等于几？
+Response: 2。 
+计算过程如下： 
+
+1 + 1 = 2
+
+所以，答案是: `结果为` "2" 。เหลือง
+ قَالَ
+----------------------------------------
+
+Prompt: 帮我写一封请假邮件
+Response: Subject: Request for Leave
+
+Dear [Manager/Supervisor],
+
+I hope this email finds you well. I am writing to request a leave of absence from my current position until the date indicated below, which is effective as soon as possible.
+
+[Reasoning behind your requested time off]: 
+
+After careful consideration and analysis based on personal circumstances (e.g., family emergencies or medical appointments), it has been determined that taking some quality restorative care would be beneficial in ensuring optimal performance when returning back at work next week.
+
+As per our organization's policy regarding leaves taken without pay during scheduled holidays, please note an initial deduction amount will apply towards future compensation after expiration of paid vacation entitlements upon return dates being set by HR department officials.
+
+In order not to disrupt ongoing projects nor cause undue stress among team members while absent from duties here - we kindly ask if there are any alternative arrangements via remote working options available so far ahead enough before departure?
+
+Thank you very much once again; sincerely,
+
+Your Name  
+(S
+----------------------------------------
+
+Prompt: What is the difference between machine learning and deep learning?
+Response: Machine Learning (ML) refers to a broad class of techniques used by computers, particularly algorithms that can learn from data without being explicitly programmed. There are several types within this general category such as supervised ML where you teach machines via labeled datasets so it learns patterns in those examples; unsupervised ML which seeks hidden structure or relationships among features/data points but does not require prior knowledge about what information we should be looking for.
+
+Deep Learning on another hand goes one step further than Machine Learning itself - It involves using neural networks with multiple layers capable of solving complex problems like image recognition & speech translation more efficiently compared traditional methods due its powerful ability simulate human cognition processes through hierarchical representations—hence termed “deep.” 
+
+In summary:
+
+- **Broadly speaking**, Deep Learning builds upon concepts covered under 'Machine Learning' – understanding how these models work helps us comprehend their capabilities.
+  
+**Specifically:**
+
+1.) More Advanced Algorithms:** While both use computational approaches similar ones find solutions at different levels ranging complexities including
+----------------------------------------
+
+============================================================
+KTO (Exp-05)
+============================================================
+
+Prompt: 什么是强化学习？
+Response: 强化学习（Reinforcement Learning）是一种机器学习方法，主要用于解决决策问题。它旨在通过试错来找到最优策略，在这种情况下，“最佳”通常指的是在每个状态下最大化某个累积奖励的和。
+
+简单来说，强化学习算法不断尝试不同的行动，并根据对结果的好坏进行调整以获得更好的表现。这些过程被称为“探索与利用”。该技术常用于游戏、机器人控制和其他领域中的智能体任务中。
+
+以下是强化学习的一些关键概念：
+
+1. 环境：环境代表一个物理或虚拟世界, 其状态由一系列数值表示。
+2
+----------------------------------------
+
+Prompt: 1+1等于几？
+Response: 1 + 1 等于2。
+
+这个简单的加法运算在数学中非常基础，但它也展示了基本的算术知识和理解数字的概念。简单来说，在两个数相加时，它们总是一样的结果。在这个例子当中，“1”代表一个单位或物体（比如一个人、一只苹果等），再加上另一个“
+----------------------------------------
+
+Prompt: 帮我写一封请假邮件
+Response: 亲爱 [Supervisor/Manager],
+
+I hope this email finds you in good health and high spirits. I am writing to request your approval for an extended leave of absence, which will be effective starting from the date mentioned below.
+
+[Date] – My scheduled start time is on Friday 24th August at noon (13:00) until Monday November 7th or earlier upon my return depending if there are critical cases that require attention during those dates
+
+Due to unforeseen personal circumstances recently arising out of family matters such as a sudden illness requiring hospitalization along with other urgent tasks related to medical appointments needed due to physical weakness caused by stress levels induced through prolonged work hours over recent weeks exacerbated because we were not able to take advantage of our vacation leaves prior to these events,
+
+as previously communicated,
+my availability has been severely compromised; henceforth necessitating me taking appropriate action regarding flexible scheduling arrangements within company policies concerning absences without pay up till when possible after having exhausted all available paid sick
+----------------------------------------
+
+Prompt: What is the difference between machine learning and deep learning?
+Response: Machine Learning (ML) refers to a subset of artificial intelligence that involves developing algorithms or techniques for computers without explicitly being programmed. The goal is usually "to predict outcomes, recognize patterns in data through training models," according to Google's nomenclature.
+
+Deep Learning, on the other hand, is one specific type within Machine Learning where
+----------------------------------------

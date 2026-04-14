@@ -1,0 +1,122 @@
+============================================================
+SFT MODEL
+============================================================
+
+Prompt: 什么是强化学习？
+Response: 强化学习（Reinforcement Learning）是一种机器学习方法，旨在让计算机程序能够通过与环境的交互来自行决定如何采取行动以达到某个目标。在该过程中，模型会根据其先前的经验不断调整自己的行为策略，并由此获得奖励或惩罚。
+
+举个例子，在一个游戏中如果小机器人每次触碰墙壁时都会受到一定的物理伤害，则它可能会主动避免碰到墙；或者当机器人撞到障碍物后可以获得更高的分数等都是典型的基于强化的学习的例子。这种算法不需要对每个可能的状态和动作有明确的定义以及预设好的回报函数就能进行有效的探索，适应性强、鲁棒性好且具有强大的自然习得能力。
+
+总的来说，强化学习为人工智能系统提供了一种全新的机制去应对复杂多变的任务难题并有效地解决实际问题提供了新的思路。رِ
+อย่า
+----------------------------------------
+
+Prompt: 请用简单的语言解释什么是人工智能
+Response: 人工智能是指计算机程序和设备能够模拟人类智能的能力。它可以通过学习、推理和自我改进来完成各种任务，包括执行逻辑操作、识别模式以及解决问题等。
+
+简而言之，在很多情况下，“人工”意味着“人脑”，而“智”的意思是处理信息并做出合理决策的能力。人工智能技术可以帮助我们更好地理解世界，并提供更加高效与精确的服务和支持。เป็นเรื่องollectorsเสื้อผ้า助理ปริGuidIdข้อความ
+----------------------------------------
+
+Prompt: 1+1等于几？
+Response: 1 + 1 等于2。กลับไป
+----------------------------------------
+
+Prompt: 帮我写一封请假邮件
+Response: 亲爱的[收件人姓名]，
+
+我希望您一切安好。我是您的助手，我负责处理所有与工作相关的事情。
+
+在这封信中，请允许我说出一个非常重要的事情：我现在需要请一天假，在这期间我会向我的上司申请并获得批准为您安排替代人员来完成工作的任务。
+由于此请求可能对我们的团队造成一定的影响，所以我希望您可以理解并且给予支持和帮助。
+
+如果您有任何问题或建议，欢迎随时联系。谢谢！
+
+祝愉快，
+[你的名字]
+[邮箱地址:]
+(日期)ชนิด
+----------------------------------------
+
+Prompt: What is the difference between machine learning and deep learning?
+Response: Machine Learning (ML) refers to a broader category of computer science that includes techniques such as clustering, regression analysis or classification. The goal here is for machines learn patterns in data without being explicitly programmed.
+
+Deep Learning on other hand focuses specifically on artificial neural networks with multiple layers which has enabled computers to perform tasks like image recognition by breaking it down into smaller parts - features – then feeding those back together again.
+This technique was made possible through advancements in computing power allowing these network structures more complex computations than previous ones could handle: hence “deep”.
+
+In essence:
+- Machine Learning encompasses all types of algorithms used today but its main focus remains at predicting continuous values based off inputted examples,
+while Deep Learning concentrates solely around models able to recognize objects from visual inputs via their layered structure
+----------------------------------------
+
+============================================================
+DPO MODEL
+============================================================
+
+Prompt: 什么是强化学习？
+Response: 强化学习（Reinforcement Learning）是一种机器学习方法，它基于直接从环境中获取反馈来增强智能体的行为。与传统的监督式和无监督式的传统人工智能技术不同的是，在强化学习中，并不是先对数据进行标注或在训练集上预先指定标签值。
+
+具体来说, 强化学习的目标是让一个程序通过不断尝试并根据其表现获得奖励机制而不断地改进自己的行为. 这个过程被称为“探索-利用”，即在不确定的情况下积极地发现新的策略(称为探索)，同时也在已经证明有效时坚持使用这些策略以最大化累积的回报 (称为 利用) 。在这个过程中，计算机系统会随着时间逐渐学会如何做出最佳决策去完成特定的任务。
+
+这种算法通常用于解决规划、控制和其他需要处理复杂环境问题的应用场景。随着最近几年深度神经网络的发展以及计算能力的进步，强化学习已经成为一种非常强大的工具，被广泛应用于游戏(RL中的著名案例包括AlphaGo
+----------------------------------------
+
+Prompt: 请用简单的语言解释什么是人工智能
+Response: 人工智能（Artificial Intelligence, 简称 AI）是通过计算机程序来模拟人类智能的一种技术。它能够让机器拥有类似于人脑的感知、思维和行为能力，使其能够执行一些需要智慧的任务。
+
+举个例子来说，在自动驾驶汽车中，AI 能够根据周围环境传感器获取的信息做出判断并控制车辆行驶；在语音助手如 Siri 或 Google
+----------------------------------------
+
+Prompt: 1+1等于几？
+Response: 答案是2。
+
+计算过程如下：
+
+首先，观察题目给出的两个数：一个是数字“1”，另一个也是数字“1”。
+
+接下来我们将这两个数值相加：
+  = 1 + 1
+
+经过简单的数学运算后，
+得的结果为:
+
+= 2 
+
+因此, 计算结果表明: `1 + 1` 等于 **两**。ความเป็นเสริม
+ตู้
+----------------------------------------
+
+Prompt: 帮我写一封请假邮件
+Response: 尊敬的 [领导姓名]，
+
+我非常抱歉地通知您，由于我个人原因需要休息一天，请假日期为 **[具体起止时间]**。
+
+在工作上遇到一些挑战和压力时，有时我们会感到疲惫不堪。作为一名有抱负的专业人士，在工作中保持良好的身体状况非常重要。我希望通过短暂的休假来恢复我的精力，并确保能在一周内高效完成剩余的工作任务。
+
+在此期间我会将所有与项目相关的重要事宜交接给我的同事并妥善安排好后续工作的衔接（如果可能的话）。请相信团队中的每一个人都是尽职尽力的人士，他们会继续努力把我们的成果推向前进。
+
+再次感谢您的理解和支持！如果您有任何疑问或建议，欢迎随时联系我进行沟通。
+
+此致，
+[你的名字]
+
+PS: 你可以根据实际情况调整文件内容中括号内的信息以符合个人需求。希望这封信能帮助你传达你需要的信息并与上司取得协调一致的时间表。มั้
+----------------------------------------
+
+Prompt: What is the difference between machine learning and deep learning?
+Response: Machine Learning (ML) refers to a broad set of techniques used by computers for pattern recognition, prediction or decision making. In simple terms, ML enables machines to learn from data without explicitly being programmed.
+
+Deep Learning on another level goes beyond traditional Machine Learning methods that use predefined models with specific number parameters like Perceptron in case you know about it earlier! Deep Learning aims at creating more complex "models" using multiple layers each processing part information differently than previous ones - hence its name which comes form Greek word meaning “deep”. These architectures are capable not only classify images but also identify objects inside them as well find relationships among various features within an image e.g., edges vs background etc.
+
+
+Let's get technical:
+
+- **Traditional Decision Trees** & *Ensemble Methods*: Used primarily when we have structured input-output datasets where labels can be directly mapped onto fixed ranges.
+  
+  Example: Linear regression 
+
+*In contrast,*  
+
+   – *Regression algorithms such as Support Vector Regression*
+   
+    Use uns
+----------------------------------------

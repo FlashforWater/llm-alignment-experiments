@@ -1,0 +1,112 @@
+============================================================
+DPO original (Exp-02)
+============================================================
+
+Prompt: 什么是强化学习？
+Response: 强化学习（Reinforcement Learning，简称 RL）是一种机器智能方法, 它通过与环境的交互来不断获得反馈和奖励，并根据这些经验逐步改进其决策行为。简单来说，在这种情况下，机器人、动物或任何其他系统都有一个目标去最大化某个数值，例如生存率或利润。
+
+在RL中，有一个称为“Q值”的函数描述了给定状态S、动作A以及下一个状态R后可能得到的最大累积回报量. 然而需要注意的是，“最大”通常不是绝对意义下的最佳或者最优的结果.
+
+为了达到这一目的, 强化学习算法会采用一系列迭代的方法: 从环境中获取一些数据(通常是行动-结果对), 根据它们更新 Q 值表; 最终通过对所有的信息进行训练从而找到能带来最优化结果的动作策略 - 这就是所谓的"政策".
+
+应用领域包括游戏人物控制、金融投资组合选择及推荐引擎等许多方面并且被
+----------------------------------------
+
+Prompt: 1+1等于几？
+Response: 当我们将数字 1 加上另一个数时，结果为2。所以答案是：
+
+`1 + 1 = 2`
+
+换句话说，在数学中，“加法”（addition）意味着将两个或多个数值相加得到一个总和。
+
+如果需要更具体的算术操作，请提供更多的上下文信息以便我能够为您提供精确的解答。螺
+สัตว์
+----------------------------------------
+
+Prompt: 帮我写一封请假邮件
+Response: 尊敬的领导，
+
+我非常抱歉地通知您，由于最近身体不适和心理压力过大，我决定申请一天无薪假。我将在这几天内好好休息并恢复体力。
+
+在此期间，请代为处理我的日常工作，并确保我们的项目正常进行。我会尽快回到工作岗位上为您提供帮助和支持。
+
+感谢您的理解与支持。
+最好的问候，
+[你的名字]เมื่อ
+เหล่านี้
+----------------------------------------
+
+Prompt: What is the difference between machine learning and deep learning?
+Response: Machine Learning (ML) refers to a broad set of techniques used by computer systems without explicit programming. It enables the system, through data analysis or interaction with users on its own, learn patterns in that specific area where it performs tasks autonomously.
+
+Deep Learning is one particular type within Machine Learning – specifically Artificial Neural Networks - which utilizes multiple layers for processing information similar to how humans process things using neurons and synapses.
+These are designed so they can 'learn' from large amounts of unstructured input such as images or audio signals much like our brain does when we see an object moving across screen:
+
+Here's what sets Deep Learning apart:
+- Computation: As opposed to classical neural networks only having two-sided connections called ‘bi-directional’, these artificial intelligence models have multi-level computation units allowing them to examine complex structures at different levels simultaneously rather than sequentially; this makes their computations more efficient overall since each layer processes intermediate results before going into higher ones
+
+In summary,
+*  *Both involve teaching computers
+----------------------------------------
+
+============================================================
+DPO filtered (Exp-04)
+============================================================
+
+Prompt: 什么是强化学习？
+Response: 强化学习（Reinforcement Learning）是一种机器学习方法，它的主要目的是让智能体通过与环境的交互来改善其策略。这种算法通常用于解决那些需要从经验中学会如何做出决策的问题。
+
+在强化学习过程中, 智能体会得到奖励和惩罚作为对其行为结果的价值反馈，并据此调整自己的行为以获得更多的回报或避免损失。这个过程可以重复进行多次迭代(即试错), 直到达到最优的行为选择准则为止。
+
+强化学习有多种类型：基于模型的方法、直接价值估计法以及混合框架下的多模态学习等；它既可以应用于游戏领域 (如围棋）、机器人控制、路径规划等领域 , 还能在自动驾驶汽车 、金融推荐系统 等应用上发挥作用.
+
+最常见的两种类型的强化学习算法是动态编程(DP) 和 Q-learning. 动态程序提供了一种更一般化的方式来建模一个特定问题的情况，在此基础上开发出许多实用有效的Q-学习
+----------------------------------------
+
+Prompt: 1+1等于几？
+Response: `1 + 1 =2`
+
+所以，答案是 `2`. 这个结果来自于基本的加法运算。在数学中，两个数相加就相当于把它们的数量合起来或合并在一起。
+
+如果你需要计算其他数字之和，请将您希望求解的具体数值写下来并告诉我，我可以帮您完成相应的算术操作。例如：3 + 4 等于多少呢？
+
+根据给定的信息："1 + 1" 的问题的答案已经给出了，并且它是 "2". 如果你有其他的关于如何进行某个特定加法的问题的话，请告诉我具体内容以便我能更好地帮助到你！เกี่ยวกับ
+
+另外，在实际应用中，“1”也可以指代不同的概念比如日期、时间等, 因此具体应用场景不同可能有不同的解释方式. 若没有更多信息提供请简化为单纯的 “1 加上另一个自然数得到的结果”.ซิ
+(注: 当然, 谢谢您的提问）จะได้全面回答了
+----------------------------------------
+
+Prompt: 帮我写一封请假邮件
+Response: 当然可以，下面是一封示例性请休假信件模板。
+
+---
+
+主题：申请病假/事假
+
+尊敬的公司领导：
+
+我很抱歉地通知您我将缺席一段时间。我是 [您的姓名] ，职位是[工作部门或所属团队] 的 [具体职责或者岗位名称 ] 。
+由于最近我的健康状况不佳（疾病名），我已经安排了几天时间进行休息和治疗以恢复身体健康，并确保我可以重新回到工作岗位上并为公司的成功做出贡献。
+
+我希望在接下来的一段时间内能得到贵部同事们的谅解与关照，在此期间可能会出现一些暂时性的业务需求无法满足，请给予充分的理解和支持。
+
+为了保证工作的顺利开展，我现在决定向管理层提出为期一周、从2019年4月5日到6月8日期间的书面请求假期。请注意附件中的详细说明及相关材料信息以便审批流程能够顺利完成。
+
+感谢大家对我的理解支持！希望我们能够在未来取得更多的成就！
+
+敬祝
+----------------------------------------
+
+Prompt: What is the difference between machine learning and deep learning?
+Response: Machine Learning (ML) refers to a broad field of study focused on developing algorithms that help computers learn from data without being explicitly programmed. This process involves building models, using training datasets for supervised or unsupervised methods.
+
+Deep Learning (DL), specifically within Machine Learning context, constitutes one particular type where neural networks with multiple layers are utilized in order to model complex relationships across vast amounts of high-dimensional input/surface spaces.
+
+The main differences lie mainly around scope:
+
+1. Scope: While both ML & DL share similar objectives—predicting outcomes based upon past experience—their scopes differ significantly.
+   - Deep Learning specializes more towards computationally demanding tasks like image recognition, speech processing etc., whereas traditional Supervised/Unsupervised/Multiclass Classification techniques can handle many other types including text classification / sentiment analysis , recommendation systems among others 
+
+2. Types Of Models Used:
+- In general terms we use classical statistical approaches such as regression trees and decision forests alongwith ensemble learners which rely heavily on feature engineering
+----------------------------------------

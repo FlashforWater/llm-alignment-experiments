@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts (never commit these — use HF Hub / releases)
+models/
+data/
+outputs/
+checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+wandb/
+runs/
+lightning_logs/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Env
+.env
+.env.local
